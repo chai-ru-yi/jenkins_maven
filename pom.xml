@@ -9,7 +9,7 @@
 	<artifactId>jenkins_maven.eclipse</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>sonarqube_maven.eclipse</name>
+	<name>jenkins_maven.eclipse</name>
 
 	<url>http://www.example.com</url>
 
